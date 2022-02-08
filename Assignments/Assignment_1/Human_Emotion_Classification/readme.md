@@ -3,7 +3,8 @@
 
 
 <h4> Workflow for findingoptimal value of k </h4>
-![image](https://user-images.githubusercontent.com/92427820/153055881-e6e95f9a-808a-4156-84d9-f87da55791b2.png)
+![1](https://user-images.githubusercontent.com/92427820/153056183-5007878c-de89-46eb-8f34-b658fef88af6.jpg)
+
 
 <h4> Fisher Ratio for different values of k </h4>
 ![image](https://user-images.githubusercontent.com/92427820/153055067-53d3d05f-0ae4-43e2-b780-011d3fe3d913.png)
